@@ -1,0 +1,6 @@
+c:\users\thomas\documents\visual studio 2015\Projects\SpeedCodingClasses\SpeedCodingClasses\SpeedCodingClasses\bin\Debug\SpeedCodingClasses.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\SpeedCodingClasses\SpeedCodingClasses\SpeedCodingClasses\bin\Debug\SpeedCodingClasses.exe
+c:\users\thomas\documents\visual studio 2015\Projects\SpeedCodingClasses\SpeedCodingClasses\SpeedCodingClasses\bin\Debug\SpeedCodingClasses.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\SpeedCodingClasses\SpeedCodingClasses\SpeedCodingClasses\obj\Debug\SpeedCodingClasses.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2015\Projects\SpeedCodingClasses\SpeedCodingClasses\SpeedCodingClasses\obj\Debug\SpeedCodingClasses.exe
+c:\users\thomas\documents\visual studio 2015\Projects\SpeedCodingClasses\SpeedCodingClasses\SpeedCodingClasses\obj\Debug\SpeedCodingClasses.pdb
